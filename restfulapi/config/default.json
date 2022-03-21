@@ -1,0 +1,7 @@
+  
+{
+     
+    "db": "mongodb://localhost/coursescrud",
+    "jwtPrivateKey": "SomePrivateKey"
+    
+}
